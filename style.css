@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+header img {
+    width:80%;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: center;
+}
+
+.recetas {
+    display: flex;
+    flex-direction: column;
+}
+
+.recetas img {
+    width: 100px;
+}
