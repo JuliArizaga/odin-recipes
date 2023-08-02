@@ -14,5 +14,13 @@ h1 {
 }
 
 p {
-    font-size: 20px;
+    font-size: 18px;
+}
+
+ul li {
+    font-size: 18px;
+}
+
+ol li {
+    font-size: 18px;
 }
