@@ -1,0 +1,18 @@
+h1 {
+    font-size: 30px;
+    background-color: rgb(201, 233, 255);
+}
+
+.receta {
+    display: flex;
+    gap: 30px;
+    align-items:center;
+}
+
+.receta img {
+    width: 300px;
+}
+
+p {
+    font-size: 20px;
+}
